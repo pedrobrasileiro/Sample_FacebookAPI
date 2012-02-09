@@ -2,7 +2,7 @@
 <project-modules id="moduleCoreId" project-version="1.5.0">
     <wb-module deploy-name="Sample_FacebookAPI">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/sources"/>
         <property name="context-root" value="Sample_FacebookAPI"/>
         <property name="java-output-path" value="/Sample_FacebookAPI/build/classes"/>
     </wb-module>
